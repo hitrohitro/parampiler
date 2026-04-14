@@ -1,0 +1,11 @@
+set account_balance to 1250.75,
+set monthly_expense to 300.25,
+set iterations to 3,
+repeat 3 times,
+begin
+set account_balance to account_balance minus monthly_expense
+end,
+if account_balance is greater than 0,
+print account_balance,
+otherwise,
+print 'overdrawn'

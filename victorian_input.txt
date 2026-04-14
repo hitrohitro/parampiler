@@ -1,0 +1,1 @@
+Pray, assign unto variable account_balance the value 1250.75. Assign unto monthly_expense the value 300.25. Repeat the following 3 times, commence Subtract monthly_expense from account_balance conclude. If account_balance be greater than 0, display the value of account_balance, otherwise, reveal account_balance.
